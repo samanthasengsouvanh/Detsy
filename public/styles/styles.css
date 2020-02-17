@@ -1,0 +1,183 @@
+.list-group-item {
+  line-height: 2.5;
+}
+
+body {
+  background-color: goldenrod;
+  font-family: "Oswald", sans-serif;
+}
+.navbar {
+  margin-bottom: 25px;
+}
+p {
+  font-family: "Gelasio", serif;
+  font-size: 16px;
+}
+.jumbotron {
+  background-color: white;
+}
+.search-btn {
+  background-color: goldenrod;
+  color: black;
+  margin-right: 10px;
+}
+
+.visit-shop {
+  background-color: goldenrod;
+  color: black;
+}
+
+.view-product {
+  background-color: goldenrod;
+  color: black;
+}
+
+.open-shop {
+  background-color: goldenrod;
+  color: black;
+}
+
+.contact-seller {
+  background-color: white;
+  color: black;
+}
+
+.section {
+  justify-self: center;
+  justify-content: center;
+  align-items: center;
+  margin: 10px, auto;
+  padding: 5px, 5px;
+}
+
+.home-card {
+  margin: 5px, 5px;
+  height: 550px;
+}
+
+.card-title {
+  color: goldenrod;
+  font-family: "Oswald", sans-serif;
+  font-size: 22px;
+}
+/* //search page results styling */
+li {
+  margin: 5px, 5px;
+}
+.media-body {
+  padding-left: 20px;
+}
+
+.thumbnail {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+}
+
+h1 h2 {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+
+p {
+  font-family: "Gelasio", serif;
+  font-size: 16px;
+}
+.prod-desc {
+  color: white;
+  font-size: 18px;
+  font-family: "Gelasio", serif;
+}
+.contact-seller {
+  background-color: white;
+  border-color: goldenrod;
+}
+.price {
+}
+
+.card-img {
+  width: 200px;
+  height: 200px;
+}
+
+.media {
+  width: auto;
+  background-color: rgba(255, 255, 255, 0.81);
+  margin-top: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+  align-self: center;
+  border-radius: 15px;
+  padding: 5px;
+}
+.container {
+}
+
+.container-search {
+  background-color: rgba(255, 255, 255, 0.81);
+  border-radius: 15px;
+  padding: 15px, 15px;
+  margin: 20px, 50px, 20px, 50px;
+}
+
+.container-product {
+  padding: 15px, 15px;
+  margin: 20px, auto;
+  margin-bottom: 100px;
+}
+
+.container-form {
+  background-color: rgba(255, 255, 255, 0.81);
+  border-radius: 15px;
+  padding: 15px, 15px;
+  margin: 20px, auto;
+}
+
+/* design a footer for app */
+.footer {
+  background-color: black;
+  height: 165px;
+}
+
+/* designed links to github */
+.nav-link.foot {
+  color: goldenrod;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 30px;
+}
+
+/* created hover effect on topnav */
+.top-nav:hover {
+  color: goldenrod;
+}
+
+/* created hover effect on footer navlink */
+.nav-link.foot:hover {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 30px;
+}
+
+/* designed bottom logo */
+.detsy {
+  color: white;
+  font-size: 46px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.fake-form {
+  background-color: white;
+  width: 100%;
+  color: #666666;
+  border: 1px solid #ced4da;
+  height: calc(1.5em + 0.75rem + 2px);
+}
+
+.nav-bar-username {
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+  margin-right: 10px;
+}
